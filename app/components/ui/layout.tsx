@@ -11,13 +11,13 @@ export function Layout({
   return (
     <div className="min-h-screen bg-background font-mono">
       <header className="border-b border-muted py-3 px-4">
-        <div className="container mx-auto flex justify-between items-center">
+        <div className="container mx-auto flex flex-col sm:flex-row justify-between items-center gap-4">
           <Link to="/" className="text-xl font-bold text-primary">
             <span className="text-accent">brew@terminal</span>:
             <span className="text-foreground">~</span>
             <span className="text-primary">$</span>
           </Link>
-          <nav className="space-x-6">
+          <nav className="flex flex-wrap justify-center gap-4 sm:gap-0 sm:space-x-6">
             <Link to="/coffees" className="text-foreground hover:text-primary">
               <span className="text-accent">cd</span> /coffees
             </Link>

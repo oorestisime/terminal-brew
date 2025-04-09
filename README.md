@@ -1,5 +1,7 @@
 # Terminal Brew Guide ☕️
 
+<img src="public/logo.png" alt="Terminal Brew Guide Logo" width="300" />
+
 An open-source website focused on brewing techniques for coffees sold on [Terminal.shop](https://www.terminal.shop). It provides tailored recipes for different brewing methods and coffee machines, helping home baristas and enthusiasts get the best out of each bean.
 
 ## About
