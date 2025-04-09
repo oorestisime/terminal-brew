@@ -5,6 +5,7 @@ An open-source website focused on brewing techniques for coffees sold on [Termin
 ## About
 
 This site is for coffee enthusiasts who:
+
 - Buy coffees from Terminal.shop
 - Brew at home using espresso machines or filter methods
 - Want clear, tested recipes for their specific equipment
@@ -19,16 +20,7 @@ This site is for coffee enthusiasts who:
 - 📱 Responsive design that works on all devices
 - 🖥️ CLI version available for terminal enthusiasts
 
-## Tech Stack
-
-- **Frontend**: React 19
-- **Routing**: React Router 7
-- **Styling**: Tailwind CSS 4 with shadcn/ui
-- **Package Manager**: Bun
-- **Bundler**: Vite
-- **TypeScript**: Full type safety
-
-## Getting Started
+## Run it
 
 ### Prerequisites
 
@@ -62,7 +54,7 @@ Create a production build:
 bun run build
 ```
 
-### CLI Version
+### WIP CLI Version
 
 This project also includes a terminal-based CLI version that you can run directly:
 

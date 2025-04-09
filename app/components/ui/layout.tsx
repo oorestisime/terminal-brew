@@ -13,7 +13,9 @@ export function Layout({
       <header className="border-b border-muted py-3 px-4">
         <div className="container mx-auto flex justify-between items-center">
           <Link to="/" className="text-xl font-bold text-primary">
-            <span className="text-accent">brew@terminal</span>:<span className="text-foreground">~</span><span className="text-primary">$</span>
+            <span className="text-accent">brew@terminal</span>:
+            <span className="text-foreground">~</span>
+            <span className="text-primary">$</span>
           </Link>
           <nav className="space-x-6">
             <Link to="/coffees" className="text-foreground hover:text-primary">
@@ -32,7 +34,8 @@ export function Layout({
       <footer className="border-t border-muted p-4">
         <div className="container mx-auto text-center text-sm text-muted-foreground">
           <p>
-            <span className="text-accent">git clone</span> github.com/terminal-shop/brew-guide.git |{" "}
+            <span className="text-accent">git clone</span>{" "}
+            https://github.com/oorestisime/terminal-brew.git |{" "}
             <a
               href="https://www.terminal.shop"
               target="_blank"
