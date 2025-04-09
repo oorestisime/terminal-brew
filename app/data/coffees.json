@@ -1,0 +1,106 @@
+[
+  {
+    "id": "flow",
+    "name": "Flow",
+    "category": "featured",
+    "collaboration": "Raycast",
+    "type": "medium roast",
+    "size": "12oz",
+    "form": "whole beans",
+    "price": "$22",
+    "origin": "Ethiopia",
+    "region": "Sidama",
+    "description": "Created in collaboration with Raycast, Flow is a medium roast from the Sidama region of Ethiopia. Featuring notes of red berries, tropical fruits, and caramel, this is the best way to get in the flow — the perfect state of productivity.",
+    "flavorNotes": [
+      "red berries",
+      "tropical fruits",
+      "caramel"
+    ]  },
+  {
+    "id": "artisan",
+    "name": "Artisan",
+    "category": "featured",
+    "collaboration": "Laravel",
+    "type": "medium roast",
+    "size": "12oz",
+    "form": "whole beans",
+    "price": "$22",
+    "origin": "Colombia and Papua New Guinea",
+    "description": "Working the backend and frontend of the palette, this new artisinal infusion is a collaboration with Laravel from Colombia and Papua New Guinea and is full stack in flavour and texture.",
+    "flavorNotes": [
+      "full-bodied",
+      "complex",
+      "balanced"
+    ],
+    "flavorProfile": "full stack in flavour and texture"  },
+  {
+    "id": "object-object",
+    "name": "[object Object]",
+    "category": "featured",
+    "type": "light roast",
+    "size": "12oz",
+    "form": "whole beans",
+    "price": "$22",
+    "origin": "Colombia",
+    "region": "Las Cochitas",
+    "varietals": [
+      "Caturra",
+      "Castillo"
+    ],
+    "description": "The interpolation of Caturra and Castillo varietals from Las Cochitas creates this refreshing citrusy and complex coffee.",
+    "flavorNotes": [
+      "citrus",
+      "complex", 
+      "refreshing"
+    ],
+    "flavorProfile": "refreshing citrusy and complex"  },
+  {
+    "id": "segfault",
+    "name": "segfault",
+    "category": "originals",
+    "type": "medium roast",
+    "size": "12oz",
+    "form": "whole beans",
+    "price": "$22",
+    "description": "A savory yet sweet blend created from a natural fault in the coffee cherry that causes it to develop one bean instead of two.",
+    "flavorNotes": [
+      "savory",
+      "sweet"
+    ],
+    "flavorProfile": "savory yet sweet",
+    "specialFeatures": [
+      "peaberry coffee (one bean instead of two)"
+    ]  },
+  {
+    "id": "dark-mode",
+    "name": "dark mode",
+    "category": "originals",
+    "type": "dark roast",
+    "size": "12oz",
+    "form": "whole beans",
+    "price": "$22",
+    "origin": "Brazil",
+    "region": "Cerrado",
+    "description": "A dark roast from the Cerrado region of Brazil, an expansive lush and tropical savanna that creates a dark chocolate blend with hints of almond.",
+    "flavorNotes": [
+      "dark chocolate",
+      "almond"
+    ],
+    "flavorProfile": "dark chocolate with hints of almond",
+    "regionFeatures": "expansive lush and tropical savanna"  },
+  {
+    "id": "404",
+    "name": "404",
+    "category": "originals",
+    "type": "decaf",
+    "size": "12oz",
+    "form": "whole beans",
+    "price": "$22",
+    "origin": "Brazil",
+    "description": "A flavorful decaf coffee processed in the mountain waters of Brazil to create a dark chocolatey blend.",
+    "flavorNotes": [
+      "dark chocolate"
+    ],
+    "flavorProfile": "dark chocolatey",
+    "processing": "mountain waters of Brazil"  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": "flow-chemex",
+    "coffeeId": "flow",
+    "methodId": "chemex",
+    "parameters": {
+      "grindSize": "medium-coarse",
+      "dose": "30g",
+      "water": "450g",
+      "waterTemp": "94°C",
+      "brewTime": "3:30-4:00",
+      "steps": [
+        "Add 60g water for bloom and wait 30 seconds",
+        "Pour remaining water in circular motion",
+        "Allow to drain completely"
+      ]
+    },
+    "notes": "Brings out the red berry and tropical fruit notes beautifully"
+  },
+  {
+    "id": "flow-v60",
+    "coffeeId": "flow",
+    "methodId": "v60",
+    "parameters": {
+      "grindSize": "medium",
+      "dose": "22g",
+      "water": "350g",
+      "waterTemp": "92°C",
+      "brewTime": "2:45-3:00",
+      "steps": [
+        "Add 50g water for bloom and wait 45 seconds",
+        "Pour to 150g and wait 30 seconds",
+        "Pour to 250g and wait 30 seconds",
+        "Pour to 350g and finish"
+      ]
+    },
+    "notes": "Perfect for highlighting caramel sweetness"
+  },
+  {
+    "id": "flow-aeropress",
+    "coffeeId": "flow",
+    "methodId": "aeropress",
+    "parameters": {
+      "grindSize": "medium-fine",
+      "dose": "18g",
+      "water": "240g",
+      "waterTemp": "90°C",
+      "brewTime": "1:30",
+      "steps": [
+        "Inverted method",
+        "Add all water and stir gently",
+        "Attach filter cap at 1:15",
+        "Flip and press for 15 seconds"
+      ]
+    },
+    "notes": "Concentrated cup that balances all flavor notes"
+  },
+  {
+    "id": "flow-barista-express",
+    "coffeeId": "flow",
+    "methodId": "barista-express",
+    "parameters": {
+      "grindSize": "3-4 on the dial",
+      "dose": "19g",
+      "yield": "38g",
+      "brewTime": "28-32 seconds",
+      "temp": "92°C",
+      "preinfusion": "7 seconds",
+      "pressure": "9 bar",
+      "steps": [
+        "Dial in grind until you hit the target time",
+        "Use WDT tool for even distribution",
+        "Tamp firmly and evenly",
+        "Pull shot with manual timing"
+      ]
+    },
+    "notes": "Creates a well-balanced shot with bright acidity and caramel sweetness"
+  },
+  {
+    "id": "artisan-la-marzocco",
+    "coffeeId": "artisan",
+    "methodId": "la-marzocco",
+    "parameters": {
+      "grindSize": "fine (17-18 on typical commercial grinder)",
+      "dose": "20g",
+      "yield": "40g",
+      "brewTime": "27-30 seconds",
+      "temp": "93°C",
+      "preinfusion": "6 seconds at 3 bar",
+      "pressure": "9 bar",
+      "steps": [
+        "Ensure even distribution with WDT tool",
+        "Tamp with 30 pounds of pressure",
+        "Start timer as soon as first drop appears",
+        "Stop shot at exactly 40g"
+      ]
+    },
+    "notes": "Full-bodied shot that showcases the complex flavor profile from both origins"
+  },
+  {
+    "id": "artisan-french-press",
+    "coffeeId": "artisan",
+    "methodId": "french-press",
+    "parameters": {
+      "grindSize": "coarse",
+      "dose": "30g",
+      "water": "500g",
+      "waterTemp": "94°C",
+      "brewTime": "4:00",
+      "steps": [
+        "Add coffee and all water",
+        "Stir gently to ensure all grounds are wet",
+        "Place plunger just above coffee level",
+        "After 4 minutes, press slowly and pour"
+      ]
+    },
+    "notes": "Rich, silky body with pronounced chocolate notes"
+  },
+  {
+    "id": "object-object-v60",
+    "coffeeId": "object-object",
+    "methodId": "v60",
+    "parameters": {
+      "grindSize": "medium-fine",
+      "dose": "22g",
+      "water": "360g",
+      "waterTemp": "94°C",
+      "brewTime": "2:30-2:45",
+      "steps": [
+        "Add 50g water for bloom and wait 30 seconds",
+        "Pour to 150g in spiral motion",
+        "Pour to 250g in spiral motion",
+        "Pour to 360g in spiral motion",
+        "Allow to drain completely"
+      ]
+    },
+    "notes": "Maximizes the citrus notes from the Caturra varietal"
+  },
+  {
+    "id": "dark-mode-barista-express",
+    "coffeeId": "dark-mode",
+    "methodId": "barista-express",
+    "parameters": {
+      "grindSize": "2-3 on the dial",
+      "dose": "18g",
+      "yield": "36g",
+      "brewTime": "25-28 seconds",
+      "temp": "90°C",
+      "preinfusion": "5 seconds",
+      "pressure": "9 bar",
+      "steps": [
+        "Use relatively coarser grind than typical for dark roasts",
+        "Distribute evenly and tamp firmly",
+        "Shorter shot time to prevent over-extraction",
+        "Watch for tiger striping in the pour"
+      ]
+    },
+    "notes": "Rich chocolate and almond notes with minimal bitterness"
+  },
+  {
+    "id": "segfault-aeropress",
+    "coffeeId": "segfault",
+    "methodId": "aeropress",
+    "parameters": {
+      "grindSize": "medium",
+      "dose": "17g",
+      "water": "220g",
+      "waterTemp": "88°C",
+      "brewTime": "1:45",
+      "steps": [
+        "Standard method (not inverted)",
+        "Add coffee and 50g water",
+        "Stir 10 times and wait 30 seconds",
+        "Add remaining water",
+        "Attach cap and press at 1:30 mark"
+      ]
+    },
+    "notes": "Balances the savory and sweet notes perfectly"
+  },
+  {
+    "id": "404-chemex",
+    "coffeeId": "404",
+    "methodId": "chemex",
+    "parameters": {
+      "grindSize": "medium-coarse",
+      "dose": "28g",
+      "water": "450g",
+      "waterTemp": "90°C",
+      "brewTime": "4:00-4:30",
+      "steps": [
+        "Add 60g water for bloom and wait 45 seconds",
+        "Pour to 200g in circular motion",
+        "Pour to 350g in circular motion",
+        "Pour to 450g in circular motion",
+        "Allow to drain completely"
+      ]
+    },
+    "notes": "Clean cup that preserves chocolate notes without caffeine jitters"
+  }
+]
